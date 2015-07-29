@@ -1,0 +1,19 @@
+{
+	"token": "12345qwerty",
+	"projectId": "6789",
+	"type":"android_strings",
+	"tags":[
+		"android",
+		"v2.5"
+	],
+	"languages":[
+		{
+			"code":"en",
+			"path":"app/src/main/res/values/strings.xml"
+		},
+		{
+			"code":"de",
+			"path":"app/src/main/res/values-de/strings.xml"
+		}
+	]
+}
